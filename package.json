@@ -1,0 +1,26 @@
+{
+  "name": "bundler",
+  "version": "1.0.0",
+  "description": "模拟webpack的bundler",
+  "main": "bundler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzfd1010/bundler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xzfd1010/bundler/issues"
+  },
+  "homepage": "https://github.com/xzfd1010/bundler#readme",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/parser": "^7.9.4",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/traverse": "^7.9.5"
+  }
+}
